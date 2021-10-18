@@ -24,7 +24,7 @@
          </rowConstraints>
          <children>
             <Label text="Name" GridPane.rowIndex="1" />
-            <Label fx:id="labelError" prefHeight="17.0" prefWidth="0.0" textFill="#d71c1c" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+            <Label fx:id="labelError" prefHeight="17.0" prefWidth="179.0" textFill="#d71c1c" GridPane.columnIndex="2" GridPane.rowIndex="1" />
             <Label prefHeight="17.0" prefWidth="41.0" text="Id" />
             <TextField fx:id="txtId" editable="false" GridPane.columnIndex="1" />
             <TextField fx:id="txtName" GridPane.columnIndex="1" GridPane.rowIndex="1" />
